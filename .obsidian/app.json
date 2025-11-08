@@ -1,0 +1,19 @@
+{
+  "promptDelete": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "attachments",
+  "useMarkdownLinks": true,
+  "newLinkFormat": "shortest",
+  "showLineNumber": false,
+  "foldHeading": false,
+  "foldIndent": true,
+  "showFrontmatter": true,
+  "showLineNumber": false,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "spellcheck": true,
+  "smartIndentList": true,
+  "foldHeading": true,
+  "showUnsupportedFiles": false
+}
